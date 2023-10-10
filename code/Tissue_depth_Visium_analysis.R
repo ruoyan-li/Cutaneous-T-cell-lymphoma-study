@@ -1,3 +1,5 @@
+#### Author ---  Pasha Mazin --- Wellcome Sanger Institute
+
 makeDistFeatureSampleTable = function(dist,sample,data,f,FUN=mean,min.spots=5,ncores=NULL){
   require(plyr)
   require(doMC)
