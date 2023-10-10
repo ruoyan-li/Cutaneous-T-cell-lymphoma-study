@@ -1,3 +1,5 @@
+#### Author ---  Pasha Mazin --- Wellcome Sanger Institute
+
 library(Seurat)
 library(plyr)
 library(NMF)
