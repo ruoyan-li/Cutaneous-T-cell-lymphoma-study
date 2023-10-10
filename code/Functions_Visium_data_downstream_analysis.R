@@ -1,3 +1,5 @@
+#### Author ---  Pasha Mazin --- Wellcome Sanger Institute
+
 plotCellAbundanceOnDist2Border = function(d2b,x,log=FALSE,cols=c('#00FFFF','#FF00FF','#FFFF00'),...){
   cilim = c(0,Inf)
   if(log){
